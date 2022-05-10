@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _06.SOLICITAR_3_NÚMEROS_E_IMPRIMIRLOS_EN_ORDEN_DESCENDENTE
+build_property.ProjectDir = C:\Users\Soporte\source\repos\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\

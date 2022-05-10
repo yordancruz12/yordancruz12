@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\bin\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.exe
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\bin\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.deps.json
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\bin\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.runtimeconfig.json
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\bin\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.dll
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\bin\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.pdb
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.dll
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\refint\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.dll
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.pdb
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ\obj\Debug\net6.0\ref\04.PROMEDIO DE NOTAS, APROBÓ O REPROBÓ.dll

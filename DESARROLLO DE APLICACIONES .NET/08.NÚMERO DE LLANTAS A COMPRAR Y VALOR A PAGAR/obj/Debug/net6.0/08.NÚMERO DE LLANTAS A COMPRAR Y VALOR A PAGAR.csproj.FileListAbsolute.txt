@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\bin\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.exe
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\bin\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.deps.json
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\bin\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.runtimeconfig.json
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\bin\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.dll
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\bin\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.pdb
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.dll
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\refint\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.dll
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.pdb
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\obj\Debug\net6.0\ref\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.dll

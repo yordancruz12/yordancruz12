@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\bin\Debug\net6.0\01.PAR O IMPAR.exe
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\bin\Debug\net6.0\01.PAR O IMPAR.deps.json
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\bin\Debug\net6.0\01.PAR O IMPAR.runtimeconfig.json
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\bin\Debug\net6.0\01.PAR O IMPAR.dll
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\bin\Debug\net6.0\01.PAR O IMPAR.pdb
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.dll
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\refint\01.PAR O IMPAR.dll
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.pdb
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\01.PAR O IMPAR.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\01.PAR O IMPAR\obj\Debug\net6.0\ref\01.PAR O IMPAR.dll

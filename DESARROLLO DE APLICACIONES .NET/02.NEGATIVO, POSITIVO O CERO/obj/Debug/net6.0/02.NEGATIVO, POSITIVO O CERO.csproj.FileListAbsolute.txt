@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\bin\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.exe
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\bin\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.deps.json
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\bin\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.runtimeconfig.json
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\bin\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.dll
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\bin\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.pdb
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.dll
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\refint\02.NEGATIVO, POSITIVO O CERO.dll
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.pdb
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\02.NEGATIVO, POSITIVO O CERO.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\02.NEGATIVO, POSITIVO O CERO\obj\Debug\net6.0\ref\02.NEGATIVO, POSITIVO O CERO.dll

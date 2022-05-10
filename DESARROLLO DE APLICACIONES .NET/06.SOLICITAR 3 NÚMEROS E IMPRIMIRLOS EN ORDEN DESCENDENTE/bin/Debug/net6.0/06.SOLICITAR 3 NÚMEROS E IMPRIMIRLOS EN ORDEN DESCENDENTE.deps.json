@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE/1.0.0": {
+        "runtime": {
+          "06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

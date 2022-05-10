@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\bin\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.exe
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\bin\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.deps.json
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\bin\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.runtimeconfig.json
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\bin\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.dll
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\bin\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.pdb
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.dll
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\refint\03.MAYOR O MENOR ENTRE DOS NÚMEROS.dll
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.pdb
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\03.MAYOR O MENOR ENTRE DOS NÚMEROS.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\03.MAYOR O MENOR ENTRE DOS NÚMEROS\obj\Debug\net6.0\ref\03.MAYOR O MENOR ENTRE DOS NÚMEROS.dll

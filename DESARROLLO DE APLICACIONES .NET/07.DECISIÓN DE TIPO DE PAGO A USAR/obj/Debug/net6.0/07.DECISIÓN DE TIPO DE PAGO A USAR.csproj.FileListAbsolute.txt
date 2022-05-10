@@ -1,0 +1,15 @@
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\bin\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.exe
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\bin\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.deps.json
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\bin\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.runtimeconfig.json
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\bin\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.dll
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\bin\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.pdb
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.dll
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\refint\07.DECISIÓN DE TIPO DE PAGO A USAR.dll
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.pdb
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\07.DECISIÓN DE TIPO DE PAGO A USAR.genruntimeconfig.cache
+C:\Users\Soporte\source\repos\07.DECISIÓN DE TIPO DE PAGO A USAR\obj\Debug\net6.0\ref\07.DECISIÓN DE TIPO DE PAGO A USAR.dll
