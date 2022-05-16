@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _04._LEER_10_NÚMEROS_SUMAR_Y_PROMEDIAR
+build_property.ProjectDir = C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\04. LEER 10 NÚMEROS SUMAR Y PROMEDIAR\

@@ -1,0 +1,15 @@
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\bin\Debug\net6.0\01. CONTADOR DE 0 A 10.exe
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\bin\Debug\net6.0\01. CONTADOR DE 0 A 10.deps.json
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\bin\Debug\net6.0\01. CONTADOR DE 0 A 10.runtimeconfig.json
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\bin\Debug\net6.0\01. CONTADOR DE 0 A 10.dll
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\bin\Debug\net6.0\01. CONTADOR DE 0 A 10.pdb
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.AssemblyInfoInputs.cache
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.AssemblyInfo.cs
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.dll
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\refint\01. CONTADOR DE 0 A 10.dll
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.pdb
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\01. CONTADOR DE 0 A 10.genruntimeconfig.cache
+C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\01. CONTADOR DE 0 A 10\obj\Debug\net6.0\ref\01. CONTADOR DE 0 A 10.dll

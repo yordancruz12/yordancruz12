@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soporte\\source\\repos\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj": {}
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soporte\\source\\repos\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj": {
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soporte\\source\\repos\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj",
+        "projectUniqueName": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj",
         "projectName": "05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS",
-        "projectPath": "C:\\Users\\Soporte\\source\\repos\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj",
+        "projectPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS.csproj",
         "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soporte\\source\\repos\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\obj\\",
+        "outputPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\05.PROGRAMA PARA CALCULAR ÁREAS DE FIGURAS GEOMÉTRICAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",

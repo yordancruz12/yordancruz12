@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. TABLA DE MULCTIPLICAR DE ENTERO DADO", "05. TABLA DE MULCTIPLICAR DE ENTERO DADO.csproj", "{FA7E1AF1-E6B5-4EE8-87FB-E9C0FFDB13C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7E1AF1-E6B5-4EE8-87FB-E9C0FFDB13C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7E1AF1-E6B5-4EE8-87FB-E9C0FFDB13C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7E1AF1-E6B5-4EE8-87FB-E9C0FFDB13C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7E1AF1-E6B5-4EE8-87FB-E9C0FFDB13C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FFA2AD7-8AFB-454B-BE75-A4E8A8F39EA8}
+	EndGlobalSection
+EndGlobal

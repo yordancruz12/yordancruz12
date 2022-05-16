@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soporte\\source\\repos\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj": {}
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soporte\\source\\repos\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj": {
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soporte\\source\\repos\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj",
+        "projectUniqueName": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj",
         "projectName": "06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE",
-        "projectPath": "C:\\Users\\Soporte\\source\\repos\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj",
+        "projectPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE.csproj",
         "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soporte\\source\\repos\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\obj\\",
+        "outputPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\06.SOLICITAR 3 NÚMEROS E IMPRIMIRLOS EN ORDEN DESCENDENTE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _06._PATRÓN_TRÍANGULO_CON_ASTERÍSCOS
+build_property.ProjectDir = C:\Users\Soporte\Documents\GitHub\yordancruz12\DESARROLLO DE APLICACIONES .NET\EJERCICIOS DE CICLOS\06. PATRÓN TRÍANGULO CON ASTERÍSCOS\
