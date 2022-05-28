@@ -34,7 +34,10 @@ while (a <= 10 && a >= 1)
                 Console.WriteLine("\n");
                 Console.WriteLine("**");
                 a--;
-                while (a < 7 && a > 5)
+                while (a <
+                    
+                    
+                    7 && a > 5)
                 {
                     Console.WriteLine("\n");
                     Console.WriteLine("***");

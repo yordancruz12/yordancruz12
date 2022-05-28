@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soporte\\source\\repos\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj": {}
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soporte\\source\\repos\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj": {
+    "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soporte\\source\\repos\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj",
+        "projectUniqueName": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj",
         "projectName": "08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR",
-        "projectPath": "C:\\Users\\Soporte\\source\\repos\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj",
+        "projectPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR.csproj",
         "packagesPath": "C:\\Users\\Soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soporte\\source\\repos\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\obj\\",
+        "outputPath": "C:\\Users\\Soporte\\Documents\\GitHub\\yordancruz12\\DESARROLLO DE APLICACIONES .NET\\08.NÚMERO DE LLANTAS A COMPRAR Y VALOR A PAGAR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
